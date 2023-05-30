@@ -1,0 +1,22 @@
+{
+  "": {
+    "dependencies": "/Users/nguyenphong/Downloads/spm-to-xcframework/.build/arm64-apple-macosx/release/spm_to_xcframework.build/spm_to_xcframework.d",
+    "object": "/Users/nguyenphong/Downloads/spm-to-xcframework/.build/arm64-apple-macosx/release/spm_to_xcframework.build/spm_to_xcframework.o",
+    "swift-dependencies": "/Users/nguyenphong/Downloads/spm-to-xcframework/.build/arm64-apple-macosx/release/spm_to_xcframework.build/master.swiftdeps"
+  },
+  "/Users/nguyenphong/Downloads/spm-to-xcframework/Sources/spm-to-xcframework/CommandBuilder.swift": {
+    "object": "/Users/nguyenphong/Downloads/spm-to-xcframework/.build/arm64-apple-macosx/release/spm_to_xcframework.build/CommandBuilder.swift.o",
+    "swiftmodule": "/Users/nguyenphong/Downloads/spm-to-xcframework/.build/arm64-apple-macosx/release/spm_to_xcframework.build/CommandBuilder~partial.swiftmodule",
+    "swift-dependencies": "/Users/nguyenphong/Downloads/spm-to-xcframework/.build/arm64-apple-macosx/release/spm_to_xcframework.build/CommandBuilder.swiftdeps"
+  },
+  "/Users/nguyenphong/Downloads/spm-to-xcframework/Sources/spm-to-xcframework/CreateXCFramework.swift": {
+    "object": "/Users/nguyenphong/Downloads/spm-to-xcframework/.build/arm64-apple-macosx/release/spm_to_xcframework.build/CreateXCFramework.swift.o",
+    "swiftmodule": "/Users/nguyenphong/Downloads/spm-to-xcframework/.build/arm64-apple-macosx/release/spm_to_xcframework.build/CreateXCFramework~partial.swiftmodule",
+    "swift-dependencies": "/Users/nguyenphong/Downloads/spm-to-xcframework/.build/arm64-apple-macosx/release/spm_to_xcframework.build/CreateXCFramework.swiftdeps"
+  },
+  "/Users/nguyenphong/Downloads/spm-to-xcframework/Sources/spm-to-xcframework/Platform.swift": {
+    "object": "/Users/nguyenphong/Downloads/spm-to-xcframework/.build/arm64-apple-macosx/release/spm_to_xcframework.build/Platform.swift.o",
+    "swiftmodule": "/Users/nguyenphong/Downloads/spm-to-xcframework/.build/arm64-apple-macosx/release/spm_to_xcframework.build/Platform~partial.swiftmodule",
+    "swift-dependencies": "/Users/nguyenphong/Downloads/spm-to-xcframework/.build/arm64-apple-macosx/release/spm_to_xcframework.build/Platform.swiftdeps"
+  }
+}

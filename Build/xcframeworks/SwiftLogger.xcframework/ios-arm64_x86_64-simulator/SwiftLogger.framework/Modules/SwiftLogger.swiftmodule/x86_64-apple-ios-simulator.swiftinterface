@@ -1,0 +1,17 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 5.8 (swiftlang-5.8.0.124.2 clang-1403.0.22.11.100)
+// swift-module-flags: -target x86_64-apple-ios11.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name SwiftLogger
+import Foundation
+import Swift
+import _Concurrency
+import _StringProcessing
+public typealias log = SwiftLogger.Logger
+@_hasMissingDesignatedInitializers final public class Logger {
+  @objc deinit
+}
+extension SwiftLogger.Logger {
+  final public class func error(filename: Swift.String = #file, line: Swift.Int = #line, funcName: Swift.String = #function, _ object: Any)
+  final public class func warning(filename: Swift.String = #file, line: Swift.Int = #line, funcName: Swift.String = #function, _ object: Any)
+  final public class func debug(filename: Swift.String = #file, line: Swift.Int = #line, funcName: Swift.String = #function, _ object: Any)
+  final public class func info(filename: Swift.String = #file, line: Swift.Int = #line, funcName: Swift.String = #function, _ object: Any)
+}

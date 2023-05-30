@@ -1,0 +1,4 @@
+module ArgumentParser {
+    header "/Users/nguyenphong/Downloads/spm-to-xcframework/.build/arm64-apple-macosx/release/ArgumentParser.build/ArgumentParser-Swift.h"
+    requires objc
+}

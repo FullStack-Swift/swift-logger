@@ -1,4 +1,7 @@
 import Foundation
+import Alamofire
+//import SwiftMessages
+//import SDWebImage
 
 private enum LogLevel: String {
   case info       = "🔵"

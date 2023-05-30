@@ -1,0 +1,74 @@
+version: "Apple Swift version 5.8 (swiftlang-5.8.0.124.2 clang-1403.0.22.11.100)"
+options: "f95040f1c55b447b9b26276dc9082ee1670958ea035b93170cff1cc37596da72"
+build_start_time: [1685428376, 666569000]
+build_end_time: [1685428382, 801699000]
+inputs:
+  ? "/Users/nguyenphong/Downloads/spm-to-xcframework/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Completions/BashCompletionsGenerator.swift"
+  : [1685428376, 12649561]
+  ? "/Users/nguyenphong/Downloads/spm-to-xcframework/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Completions/CompletionsGenerator.swift"
+  : [1685428376, 12728726]
+  ? "/Users/nguyenphong/Downloads/spm-to-xcframework/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Completions/FishCompletionsGenerator.swift"
+  : [1685428376, 12806849]
+  ? "/Users/nguyenphong/Downloads/spm-to-xcframework/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Completions/ZshCompletionsGenerator.swift"
+  : [1685428376, 12892555]
+  ? "/Users/nguyenphong/Downloads/spm-to-xcframework/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsable Properties/Argument.swift"
+  : [1685428376, 13036926]
+  ? "/Users/nguyenphong/Downloads/spm-to-xcframework/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsable Properties/ArgumentHelp.swift"
+  : [1685428376, 13125007]
+  ? "/Users/nguyenphong/Downloads/spm-to-xcframework/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsable Properties/CompletionKind.swift"
+  : [1685428376, 13187172]
+  ? "/Users/nguyenphong/Downloads/spm-to-xcframework/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsable Properties/Errors.swift"
+  : [1685428376, 13262003]
+  ? "/Users/nguyenphong/Downloads/spm-to-xcframework/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsable Properties/Flag.swift"
+  : [1685428376, 13379291]
+  ? "/Users/nguyenphong/Downloads/spm-to-xcframework/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsable Properties/NameSpecification.swift"
+  : [1685428376, 13479830]
+  ? "/Users/nguyenphong/Downloads/spm-to-xcframework/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsable Properties/Option.swift"
+  : [1685428376, 13588661]
+  ? "/Users/nguyenphong/Downloads/spm-to-xcframework/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsable Properties/OptionGroup.swift"
+  : [1685428376, 13668867]
+  ? "/Users/nguyenphong/Downloads/spm-to-xcframework/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsable Types/CommandConfiguration.swift"
+  : [1685428376, 13776405]
+  ? "/Users/nguyenphong/Downloads/spm-to-xcframework/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsable Types/EnumerableFlag.swift"
+  : [1685428376, 13846154]
+  ? "/Users/nguyenphong/Downloads/spm-to-xcframework/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsable Types/ExpressibleByArgument.swift"
+  : [1685428376, 13920068]
+  ? "/Users/nguyenphong/Downloads/spm-to-xcframework/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsable Types/ParsableArguments.swift"
+  : [1685428376, 14027982]
+  ? "/Users/nguyenphong/Downloads/spm-to-xcframework/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsable Types/ParsableArgumentsValidation.swift"
+  : [1685428376, 14126063]
+  ? "/Users/nguyenphong/Downloads/spm-to-xcframework/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsable Types/ParsableCommand.swift"
+  : [1685428376, 14205685]
+  ? "/Users/nguyenphong/Downloads/spm-to-xcframework/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsing/ArgumentDecoder.swift"
+  : [1685428376, 14322099]
+  ? "/Users/nguyenphong/Downloads/spm-to-xcframework/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsing/ArgumentDefinition.swift"
+  : [1685428376, 14415180]
+  ? "/Users/nguyenphong/Downloads/spm-to-xcframework/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsing/ArgumentSet.swift"
+  : [1685428376, 14545385]
+  ? "/Users/nguyenphong/Downloads/spm-to-xcframework/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsing/CommandParser.swift"
+  : [1685428376, 14824252]
+  ? "/Users/nguyenphong/Downloads/spm-to-xcframework/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsing/InputOrigin.swift"
+  : [1685428376, 14906000]
+  "/Users/nguyenphong/Downloads/spm-to-xcframework/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsing/Name.swift": [1685428376, 14979331]
+  ? "/Users/nguyenphong/Downloads/spm-to-xcframework/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsing/Parsed.swift"
+  : [1685428376, 15049246]
+  ? "/Users/nguyenphong/Downloads/spm-to-xcframework/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsing/ParsedValues.swift"
+  : [1685428376, 15116785]
+  ? "/Users/nguyenphong/Downloads/spm-to-xcframework/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsing/ParserError.swift"
+  : [1685428376, 15183700]
+  ? "/Users/nguyenphong/Downloads/spm-to-xcframework/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Parsing/SplitArguments.swift"
+  : [1685428376, 15345196]
+  ? "/Users/nguyenphong/Downloads/spm-to-xcframework/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Usage/HelpCommand.swift"
+  : [1685428376, 15462026]
+  ? "/Users/nguyenphong/Downloads/spm-to-xcframework/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Usage/HelpGenerator.swift"
+  : [1685428376, 15572606]
+  ? "/Users/nguyenphong/Downloads/spm-to-xcframework/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Usage/MessageInfo.swift"
+  : [1685428376, 15659021]
+  ? "/Users/nguyenphong/Downloads/spm-to-xcframework/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Usage/UsageGenerator.swift"
+  : [1685428376, 15771018]
+  ? "/Users/nguyenphong/Downloads/spm-to-xcframework/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Utilities/SequenceExtensions.swift"
+  : [1685428376, 15865265]
+  ? "/Users/nguyenphong/Downloads/spm-to-xcframework/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Utilities/StringExtensions.swift"
+  : [1685428376, 15957846]
+  ? "/Users/nguyenphong/Downloads/spm-to-xcframework/.build/checkouts/swift-argument-parser/Sources/ArgumentParser/Utilities/Tree.swift"
+  : [1685428376, 16027969]

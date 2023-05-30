@@ -1,0 +1,444 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "TopLevel",
+    "printedName": "TopLevel",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "SwiftLogger"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "Logger",
+        "printedName": "Logger",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "error",
+            "printedName": "error(filename:line:funcName:_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "hasDefaultArg": true,
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "hasDefaultArg": true,
+                "usr": "s:Si"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "hasDefaultArg": true,
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "ProtocolComposition",
+                "printedName": "Any"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:11SwiftLogger0B0C5error8filename4line8funcName_ySS_SiSSyptFZ",
+            "mangledName": "$s11SwiftLogger0B0C5error8filename4line8funcName_ySS_SiSSyptFZ",
+            "moduleName": "SwiftLogger",
+            "static": true,
+            "declAttributes": [
+              "Final"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "warning",
+            "printedName": "warning(filename:line:funcName:_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "hasDefaultArg": true,
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "hasDefaultArg": true,
+                "usr": "s:Si"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "hasDefaultArg": true,
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "ProtocolComposition",
+                "printedName": "Any"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:11SwiftLogger0B0C7warning8filename4line8funcName_ySS_SiSSyptFZ",
+            "mangledName": "$s11SwiftLogger0B0C7warning8filename4line8funcName_ySS_SiSSyptFZ",
+            "moduleName": "SwiftLogger",
+            "static": true,
+            "declAttributes": [
+              "Final"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "debug",
+            "printedName": "debug(filename:line:funcName:_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "hasDefaultArg": true,
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "hasDefaultArg": true,
+                "usr": "s:Si"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "hasDefaultArg": true,
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "ProtocolComposition",
+                "printedName": "Any"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:11SwiftLogger0B0C5debug8filename4line8funcName_ySS_SiSSyptFZ",
+            "mangledName": "$s11SwiftLogger0B0C5debug8filename4line8funcName_ySS_SiSSyptFZ",
+            "moduleName": "SwiftLogger",
+            "static": true,
+            "declAttributes": [
+              "Final"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "info",
+            "printedName": "info(filename:line:funcName:_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "hasDefaultArg": true,
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "hasDefaultArg": true,
+                "usr": "s:Si"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "hasDefaultArg": true,
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "ProtocolComposition",
+                "printedName": "Any"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:11SwiftLogger0B0C4info8filename4line8funcName_ySS_SiSSyptFZ",
+            "mangledName": "$s11SwiftLogger0B0C4info8filename4line8funcName_ySS_SiSSyptFZ",
+            "moduleName": "SwiftLogger",
+            "static": true,
+            "declAttributes": [
+              "Final"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:11SwiftLogger0B0C",
+        "mangledName": "$s11SwiftLogger0B0C",
+        "moduleName": "SwiftLogger",
+        "declAttributes": [
+          "Final",
+          "AccessControl"
+        ],
+        "hasMissingDesignatedInitializers": true
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/nguyenphong\/Desktop\/swift-logger\/Sources\/SwiftLogger\/Logger.swift",
+      "kind": "StringLiteral",
+      "offset": 71,
+      "length": 6,
+      "value": "\"🔵\""
+    },
+    {
+      "filePath": "\/Users\/nguyenphong\/Desktop\/swift-logger\/Sources\/SwiftLogger\/Logger.swift",
+      "kind": "StringLiteral",
+      "offset": 98,
+      "length": 6,
+      "value": "\"🟡\""
+    },
+    {
+      "filePath": "\/Users\/nguyenphong\/Desktop\/swift-logger\/Sources\/SwiftLogger\/Logger.swift",
+      "kind": "StringLiteral",
+      "offset": 125,
+      "length": 6,
+      "value": "\"🟠\""
+    },
+    {
+      "filePath": "\/Users\/nguyenphong\/Desktop\/swift-logger\/Sources\/SwiftLogger\/Logger.swift",
+      "kind": "StringLiteral",
+      "offset": 152,
+      "length": 6,
+      "value": "\"🔴\""
+    },
+    {
+      "filePath": "\/Users\/nguyenphong\/Desktop\/swift-logger\/Sources\/SwiftLogger\/Logger.swift",
+      "kind": "StringLiteral",
+      "offset": 71,
+      "length": 6,
+      "value": "\"🔵\""
+    },
+    {
+      "filePath": "\/Users\/nguyenphong\/Desktop\/swift-logger\/Sources\/SwiftLogger\/Logger.swift",
+      "kind": "StringLiteral",
+      "offset": 98,
+      "length": 6,
+      "value": "\"🟡\""
+    },
+    {
+      "filePath": "\/Users\/nguyenphong\/Desktop\/swift-logger\/Sources\/SwiftLogger\/Logger.swift",
+      "kind": "StringLiteral",
+      "offset": 125,
+      "length": 6,
+      "value": "\"🟠\""
+    },
+    {
+      "filePath": "\/Users\/nguyenphong\/Desktop\/swift-logger\/Sources\/SwiftLogger\/Logger.swift",
+      "kind": "StringLiteral",
+      "offset": 152,
+      "length": 6,
+      "value": "\"🔴\""
+    },
+    {
+      "filePath": "\/Users\/nguyenphong\/Desktop\/swift-logger\/Sources\/SwiftLogger\/Logger.swift",
+      "kind": "BooleanLiteral",
+      "offset": 383,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/nguyenphong\/Desktop\/swift-logger\/Sources\/SwiftLogger\/Logger.swift",
+      "kind": "StringLiteral",
+      "offset": 521,
+      "length": 3,
+      "value": "\"\/\""
+    },
+    {
+      "filePath": "\/Users\/nguyenphong\/Desktop\/swift-logger\/Sources\/SwiftLogger\/Logger.swift",
+      "kind": "StringLiteral",
+      "offset": 624,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/nguyenphong\/Desktop\/swift-logger\/Sources\/SwiftLogger\/Logger.swift",
+      "kind": "StringLiteral",
+      "offset": 831,
+      "length": 96,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/nguyenphong\/Desktop\/swift-logger\/Sources\/SwiftLogger\/Logger.swift",
+      "kind": "StringLiteral",
+      "offset": 858,
+      "length": 5,
+      "value": "\" ERROR [[\""
+    },
+    {
+      "filePath": "\/Users\/nguyenphong\/Desktop\/swift-logger\/Sources\/SwiftLogger\/Logger.swift",
+      "kind": "StringLiteral",
+      "offset": 904,
+      "length": 1,
+      "value": "\"]:\""
+    },
+    {
+      "filePath": "\/Users\/nguyenphong\/Desktop\/swift-logger\/Sources\/SwiftLogger\/Logger.swift",
+      "kind": "StringLiteral",
+      "offset": 913,
+      "length": 1,
+      "value": "\" \""
+    },
+    {
+      "filePath": "\/Users\/nguyenphong\/Desktop\/swift-logger\/Sources\/SwiftLogger\/Logger.swift",
+      "kind": "StringLiteral",
+      "offset": 925,
+      "length": 1,
+      "value": "\"]\""
+    },
+    {
+      "filePath": "\/Users\/nguyenphong\/Desktop\/swift-logger\/Sources\/SwiftLogger\/Logger.swift",
+      "kind": "StringLiteral",
+      "offset": 1126,
+      "length": 100,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/nguyenphong\/Desktop\/swift-logger\/Sources\/SwiftLogger\/Logger.swift",
+      "kind": "StringLiteral",
+      "offset": 1155,
+      "length": 7,
+      "value": "\" WARNING [[\""
+    },
+    {
+      "filePath": "\/Users\/nguyenphong\/Desktop\/swift-logger\/Sources\/SwiftLogger\/Logger.swift",
+      "kind": "StringLiteral",
+      "offset": 1203,
+      "length": 1,
+      "value": "\"]:\""
+    },
+    {
+      "filePath": "\/Users\/nguyenphong\/Desktop\/swift-logger\/Sources\/SwiftLogger\/Logger.swift",
+      "kind": "StringLiteral",
+      "offset": 1212,
+      "length": 1,
+      "value": "\" \""
+    },
+    {
+      "filePath": "\/Users\/nguyenphong\/Desktop\/swift-logger\/Sources\/SwiftLogger\/Logger.swift",
+      "kind": "StringLiteral",
+      "offset": 1224,
+      "length": 1,
+      "value": "\"]\""
+    },
+    {
+      "filePath": "\/Users\/nguyenphong\/Desktop\/swift-logger\/Sources\/SwiftLogger\/Logger.swift",
+      "kind": "StringLiteral",
+      "offset": 1423,
+      "length": 96,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/nguyenphong\/Desktop\/swift-logger\/Sources\/SwiftLogger\/Logger.swift",
+      "kind": "StringLiteral",
+      "offset": 1450,
+      "length": 5,
+      "value": "\" DEBUG [[\""
+    },
+    {
+      "filePath": "\/Users\/nguyenphong\/Desktop\/swift-logger\/Sources\/SwiftLogger\/Logger.swift",
+      "kind": "StringLiteral",
+      "offset": 1496,
+      "length": 1,
+      "value": "\"]:\""
+    },
+    {
+      "filePath": "\/Users\/nguyenphong\/Desktop\/swift-logger\/Sources\/SwiftLogger\/Logger.swift",
+      "kind": "StringLiteral",
+      "offset": 1505,
+      "length": 1,
+      "value": "\" \""
+    },
+    {
+      "filePath": "\/Users\/nguyenphong\/Desktop\/swift-logger\/Sources\/SwiftLogger\/Logger.swift",
+      "kind": "StringLiteral",
+      "offset": 1517,
+      "length": 1,
+      "value": "\"]\""
+    },
+    {
+      "filePath": "\/Users\/nguyenphong\/Desktop\/swift-logger\/Sources\/SwiftLogger\/Logger.swift",
+      "kind": "StringLiteral",
+      "offset": 1715,
+      "length": 94,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/nguyenphong\/Desktop\/swift-logger\/Sources\/SwiftLogger\/Logger.swift",
+      "kind": "StringLiteral",
+      "offset": 1741,
+      "length": 4,
+      "value": "\" INFO [[\""
+    },
+    {
+      "filePath": "\/Users\/nguyenphong\/Desktop\/swift-logger\/Sources\/SwiftLogger\/Logger.swift",
+      "kind": "StringLiteral",
+      "offset": 1786,
+      "length": 1,
+      "value": "\"]:\""
+    },
+    {
+      "filePath": "\/Users\/nguyenphong\/Desktop\/swift-logger\/Sources\/SwiftLogger\/Logger.swift",
+      "kind": "StringLiteral",
+      "offset": 1795,
+      "length": 1,
+      "value": "\" \""
+    },
+    {
+      "filePath": "\/Users\/nguyenphong\/Desktop\/swift-logger\/Sources\/SwiftLogger\/Logger.swift",
+      "kind": "StringLiteral",
+      "offset": 1807,
+      "length": 1,
+      "value": "\"]\""
+    }
+  ]
+}

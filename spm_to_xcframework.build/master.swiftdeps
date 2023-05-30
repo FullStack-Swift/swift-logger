@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.8 (swiftlang-5.8.0.124.2 clang-1403.0.22.11.100)"
+options: "a146ea24fbab51b9fba53d460b287201d3a2ba8bb55238265da444a814725050"
+build_start_time: [1685428382, 873640000]
+build_end_time: [1685428383, 381284000]
+inputs:
+  "/Users/nguyenphong/Downloads/spm-to-xcframework/Sources/spm-to-xcframework/CommandBuilder.swift": [1685428346, 63922302]
+  "/Users/nguyenphong/Downloads/spm-to-xcframework/Sources/spm-to-xcframework/CreateXCFramework.swift": [1685428346, 64104589]
+  "/Users/nguyenphong/Downloads/spm-to-xcframework/Sources/spm-to-xcframework/Platform.swift": [1685428346, 64247002]
